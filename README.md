@@ -1,7 +1,7 @@
 # T3_Leiterfolie_Ersatz
 Ersetzt die Leiterfolie im Instrumententräger
 
-In meinem Fall bei einer Prtsche Bj85, Turbodiesel mit dynamischer Ölkontrolle.
+In meinem Fall bei einer Pritsche Bj85, Turbodiesel mit dynamischer Ölkontrolle.
 
 
 <img src="_Fotos/Platine_Top_V1.0.jpeg">
