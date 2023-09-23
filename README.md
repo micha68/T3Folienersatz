@@ -8,6 +8,10 @@ In meinem Fall bei einer Pritsche Bj85, Turbodiesel mit dynamischer Ölkontrolle
 
 <img src="_Fotos/Platine_Bot_V1.0.jpeg">
 
+<img src="_Fotos/3D_1.png">
+
+<img src="_Fotos/3D_2.png">
+
 <img src="_Fotos/Satz_1.jpg">
 
 <img src="_Fotos/Satz_2.jpg">
